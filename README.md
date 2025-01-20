@@ -6,6 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=VictorModi&theme=dark"/></a>
 
 <img align="right" width="320px" height="320px" src="https://github.com/VictorModi/VictorModi/blob/main/img/cryingMutsumi.jpg">
+
 + 破壁大专生
 + 仍在学习，感兴趣啥都研究
 + 喜欢磕头，喜欢我你就是我爹
