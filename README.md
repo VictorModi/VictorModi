@@ -1,13 +1,13 @@
 # VictorModi
-<a href="https://github.com/VictorModi">
+<a href="https://github.com/VictorModi" target="_blank">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorModi&theme=dark"  alt="top_lang"/>
 </a>
 
-<a href="https://stats.fm/262">
+<a href="https://stats.fm/262" target="_blank">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tkakwemqx2ktplrko5vcmxlpcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 </a>
 
-<a href="https://github.com/VictorModi">
+<a href="https://github.com/VictorModi" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/?username=VictorModi&theme=dark"/>
 </a>
 
