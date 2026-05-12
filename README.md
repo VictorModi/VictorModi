@@ -1,8 +1,17 @@
 # VictorModi
 
+<a href="https://github.com/VictorModi" target="_blank">
+<img align="right" src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/top-langs.svg"  alt="top_lang"/>
+</a>
+
 <a href="https://stats.fm/262" target="_blank">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tkakwemqx2ktplrko5vcmxlpcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 </a>
+
+<a href="https://github.com/VictorModi" target="_blank">
+<img src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/stats.svg"/>
+</a>
+
 
 <img align="right" width="320px" height="320px" src="https://github.com/VictorModi/VictorModi/blob/main/img/cryingMutsumi.jpg">
 
