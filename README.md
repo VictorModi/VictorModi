@@ -16,6 +16,7 @@
 <img align="right" width="320px" height="320px" src="https://github.com/VictorModi/VictorModi/blob/main/img/cryingMutsumi.jpg">
 
 + 专升公办二本的烂货
++ 学历很低很低，活到现在真是抱歉
 + 仍在学习，感兴趣啥都研究
 + 喜欢磕头，喜欢我你就是我爹
 + 可爱乖女儿 ([@niurousama](https://github.com/niurousama))
