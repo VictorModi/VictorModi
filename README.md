@@ -27,12 +27,8 @@
 ---
 <img align="right" width="320px" height="320px" src="https://github.com/VictorModi/VictorModi/blob/main/img/cryingMutsumi.jpg">
 
-+ 仍在学习，感兴趣啥都研究
++ 仍在学习，感兴趣啥都研究，目前没有任何学术性论文
 + 喜欢磕头，喜欢我你就是我爹
-+ 可爱乖女儿 EPM ([@EvilPM](https://github.com/EvilPM))
-+ [最常使用的国内厕媒体](https://space.bilibili.com/11337605)
-+ 废物一个，希望有人能捞一下
-+ 代码都是小朋友不懂事瞎写的，觉得被恶心到就骂我吧。
-+ 呜呜呜呜呜
-+ `EDA2 77C1 78DF FBE2`
-+ `6663 8500 0000 0000`
++ 废物一个，希望有人能捞一下，没人捞也无所谓
++ 代码都是小朋友不懂事瞎写的，觉得被恶心到就骂
++ GPG: `6663 8500 0000 0000`
