@@ -13,10 +13,20 @@
 </a>
 
 
+
+## 简单论述
+前中专生，现大专毕业生，准专升本生
+
+目前没抽过烟没喝过酒没嚼过槟榔，上职业学校纯属我活该
+
+欢迎学历歧视以及踩头，我个人认为专升本不如大专。
+
+## 所使用设备
+- ASUS FX507VV - Windows 11 Workstation Pro
+- OnePlus 13 (CN)
+---
 <img align="right" width="320px" height="320px" src="https://github.com/VictorModi/VictorModi/blob/main/img/cryingMutsumi.jpg">
 
-+ 专升公办二本的烂货
-+ 学历很低很低，活到现在真是抱歉
 + 仍在学习，感兴趣啥都研究
 + 喜欢磕头，喜欢我你就是我爹
 + 可爱乖女儿 EPM ([@EvilPM](https://github.com/EvilPM))
