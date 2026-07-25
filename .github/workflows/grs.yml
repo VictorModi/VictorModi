@@ -32,7 +32,7 @@ jobs:
         with:
           card: pin
           options: username=0penPublic&repo=onHit&theme=dark
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/onhit-stats-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
