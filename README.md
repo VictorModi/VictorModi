@@ -12,7 +12,7 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tkakwemqx2ktplrko5vcmxlpcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
 </a>
 
-<a href="https://github.com/VictorModi" target="_blank">
+<a href="https://github.com/0penPublic/onHit" target="_blank">
   <img align="right" src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/onhit-stats.svg" alt="onhit_stats"/>
 </a>
 
