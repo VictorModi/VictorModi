@@ -1,18 +1,20 @@
 # VictorModi
 
 <a href="https://github.com/VictorModi" target="_blank">
-<img align="right" src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/top-langs.svg"  alt="top_lang"/>
-</a>
-
-<a href="https://stats.fm/262" target="_blank">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tkakwemqx2ktplrko5vcmxlpcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
+  <img align="right" src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/top-langs.svg" alt="top_lang"/>
 </a>
 
 <a href="https://github.com/VictorModi" target="_blank">
-<img src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/stats.svg"/>
+  <img src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/stats.svg"/>
 </a>
 
+<a href="https://stats.fm/262" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tkakwemqx2ktplrko5vcmxlpcq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true">
+</a>
 
+<a href="https://github.com/VictorModi" target="_blank">
+  <img align="right" src="https://raw.githubusercontent.com/VictorModi/VictorModi/refs/heads/main/profile/onhit-stats.svg" alt="onhit_stats"/>
+</a>
 
 ## 简单描述
 - 前中专生，现大专毕业生，准专升本生
